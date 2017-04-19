@@ -49,6 +49,7 @@ group :development do
   gem 'better_errors'
   gem 'pry-rails'
   gem 'annotate'
+  gem 'colorize'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
